@@ -1,4 +1,4 @@
-|           | **Lunes**                       | **Martes**                      | **Miercoles **                | **Jueves **                   | **Viernes**                     |
+|           |   Lunes                         |   Martes                        |   Miercoles                 |   Jueves                      |   Viernes                       |
 |-----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | **13:00** | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos | Administracion de Base de Datos |
 | **14:00** | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          | Ingenieria de Software          |      Ingenieria de Software     |
