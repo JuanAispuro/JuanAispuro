@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/99299950/153314140-5623c7ed-16c5-4440-a3e7-5abd62abee07.png width = 25px)
+![image]([![logo-TECT.png](https://i.postimg.cc/3JKkPCHz/logo-TECT.png)](https://postimg.cc/14jRFFXK))
 
 
 
