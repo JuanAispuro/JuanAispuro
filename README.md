@@ -1,5 +1,4 @@
-![image]([![logo-TECT.png](https://i.postimg.cc/3JKkPCHz/logo-TECT.png)](https://postimg.cc/14jRFFXK))
-
+[![logo-TECT.png](https://i.postimg.cc/3JKkPCHz/logo-TECT.png)](https://postimg.cc/14jRFFXK)
 
 
 
