@@ -2,8 +2,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/99299950/153314278-60a984c9-0868-436e-ab2b-287323efa7ed.png)
-
+[![LOGO-VERTICAL-TECNM.png](https://i.postimg.cc/bNWjQpLL/LOGO-VERTICAL-TECNM.png)](https://postimg.cc/GHFNR0Ws)
 
 
 |           |   Lunes                         |   Martes                        |   Miercoles                 |   Jueves                      |   Viernes                       |
