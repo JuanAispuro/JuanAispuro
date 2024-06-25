@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently working in CBLUNA<br><br>I'm graduate for Instituto tecnologico de Tijuana has a Software Engineer <br>
+I'm currently working in CBLUNA<br>I'm graduate for Instituto tecnologico de Tijuana has a Software Engineer <br> Excited to continue learning<br><br>
+My skills 
+- Great Teamwork
+- Initiative
+- Proactive cooperation
+
 
 
 ## 🌐 Socials:
